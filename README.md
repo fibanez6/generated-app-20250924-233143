@@ -2,7 +2,7 @@
 
 A visually stunning, fully functional chess game with a retro 90s CRT and neon aesthetic.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fibanez6/generated-app-20250924-233143)
 
 RetroChess is a visually striking, fully functional chess game designed with a nostalgic, early-internet aesthetic. The application provides a classic two-player (hot-seat) chess experience on a single screen. The core of the project is its unique 'Retro' artistic style, featuring a dark, CRT-monitor-like background, glowing neon pieces and highlights, pixelated typography, and subtle glitch effects. All standard chess rules are implemented, including piece movements, castling, en passant, pawn promotion, check, checkmate, and stalemate detection. The user interface is designed to be intuitive, with clear visual feedback for selected pieces, valid moves, captures, and game state changes, ensuring a delightful and engaging user experience.
 
@@ -84,4 +84,4 @@ This project is configured for easy deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/fibanez6/generated-app-20250924-233143)
